@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "mcp_server_mysql": {
+      "type": "stdio",
+      "command": "node",
+      "args": [
+        "./scripts/launch-mcp-mysql.js"
+      ]
+    }
+  }
+}

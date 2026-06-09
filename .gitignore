@@ -1,0 +1,16 @@
+# 敏感配置
+.env
+
+# 私有规则文件（含真实库名/表名，仅保留 example 供参考）
+.claude/rules/data-query.md
+
+# 导出数据文件
+output/*.csv
+output/*.xlsx
+output/*.json
+
+# 导出查询文件
+queries/*.sql
+
+# 其他不需要跟踪的文件
+docs/sharding-rules.md
