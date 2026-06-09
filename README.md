@@ -17,14 +17,14 @@
 - [Node.js](https://nodejs.org/) >= 18
 - [Claude Code CLI](https://docs.anthropic.com/en/docs/claude-code)
 - MySQL 数据库只读账号
-- [mcp-server-mysql](https://github.com/mysqljs/mcp-server-mysql)（MCP MySQL 服务）
+- [mcp-server-mysql](https://github.com/benborla/mcp-server-mysql)（MCP MySQL 服务）
 
 ### 安装步骤
 
 1. **克隆项目**
 
    ```bash
-   git clone <repo-url> data-export
+   git clone https://github.com/sangumaoche/data-export
    cd data-export
    ```
 
