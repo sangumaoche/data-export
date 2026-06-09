@@ -143,8 +143,12 @@ cp docs/sharding-rules.example.md docs/sharding-rules.md
 ## 技术栈
 
 - **Agent 框架**: [Claude Code](https://claude.com/claude-code)（Anthropic Claude CLI）
-- **数据库连接**: [mcp-server-mysql](https://github.com/mysqljs/mcp-server-mysql)（MCP 协议）
+- **数据库连接**: [mcp-server-mysql](https://github.com/benborla/mcp-server-mysql)（MCP 协议）
 - **数据库**: MySQL（ShardingSphere 分库分表）
+
+## 感谢
+
+- [@benborla29](https://github.com/benborla/mcp-server-mysql) 提供了 MCP MySQL 服务，极大简化了数据库连接和查询的实现。
 
 ## License
 
