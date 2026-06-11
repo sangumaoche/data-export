@@ -11,6 +11,7 @@ output/*.json
 
 # 导出查询文件
 queries/*.sql
+queries/SQL_INDEX.md
 
 # 其他不需要跟踪的文件
 docs/sharding-rules.md
